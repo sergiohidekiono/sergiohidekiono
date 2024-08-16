@@ -63,9 +63,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sergiohidekiono/sergiohidekiono/output/snake.svg" alt="Snake animation" />
-
-###
