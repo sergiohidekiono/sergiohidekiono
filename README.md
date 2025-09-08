@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Sergio Hideki and I'm a Frontend developer, from Brazil</h2>
+<h2 align="center">Olá, sou Sergio Hideki desenvolvedor Frontend!👋</h2>
 
 <div>
 Sou desenvolvedor frontend com experiência em projetos fullstack, utilizando Next.js, React, Angular, NestJS, Prisma, Firebase e Supabase. Tenho facilidade em aprender novas tecnologias e gosto de aplicar boas práticas de arquitetura e organização de código.
@@ -10,9 +10,7 @@ Atualmente, estou em busca de novas oportunidades para evoluir minhas habilidade
 ###
 
 <div align="center">
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiohidekiono&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
- 
 </div>
 
 ###
