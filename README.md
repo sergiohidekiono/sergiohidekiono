@@ -36,9 +36,11 @@ Atualmente, estou em busca de novas oportunidades para evoluir minhas habilidade
 <div>
 
 -   [Med Alerta (Angular)](https://med-alerta.netlify.app/)
--   [Florata Lingerie (Angular)](https://floratalingerie.com.br/)
+-   [Florata Lingerie (Angular)](https://florata-lingerie.netlify.app/)
 -   [Interação animada Yeti (Angular)](https://yeti-animation.netlify.app/)
 -   [Código Burger (Next JS)](https://codigoburger.vercel.app/)
+-   [WK Technology] (https://wktechnology.netlify.app/)
+  
 </div>
 
 <div align="left">
