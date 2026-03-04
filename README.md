@@ -34,10 +34,6 @@ Atualmente, estou em busca de novas oportunidades para evoluir minhas habilidade
 ## Projetos desenvolvidos por mim
 
 <div>
-<img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQGzarlCCL_VDA/articleshare-shrink_800/articleshare-shrink_800/0/1711196906624?e=1757977200&v=beta&t=sMd9yGtvzxUDsezgxAoy0wQLy6_ZjztioOSehT1ZyIs" height="130px" width="200px"/>
-<img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQHU6I7pXsnKFw/articleshare-shrink_1280_800/B4DZXgZ8j9HAAQ-/0/1743226654112?e=1757977200&v=beta&t=YTwKj-FfJVVQtNOho0NxU1ZT_M3PHKr5OkYhZlQOk-E" height="130px" width="200px"/>
-<img src="https://media.licdn.com/dms/image/v2/D4D2DAQFYst6WD0LdYg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1688045458461?e=1757977200&v=beta&t=OaTYz1uL30LGsBYS6evm4Szt0Ao5tUGHo8L4FzYIVMM" height="130px" width="200px" />
-<img src="" height="130px" width="200px"/>
 
 -   [Med Alerta (Angular)](https://med-alerta.netlify.app/)
 -   [Florata Lingerie (Angular)](https://floratalingerie.com.br/)
