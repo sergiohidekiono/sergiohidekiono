@@ -34,10 +34,12 @@ Atualmente, estou em busca de novas oportunidades para evoluir minhas habilidade
 ## Projetos desenvolvidos por mim
 
 <div>
--   [Med Alerta (Angular)](https://med-alerta.netlify.app/)
--   [Florata Lingerie (Angular)](https://florata-lingerie.netlify.app/)
--   [Interação animada Yeti (Angular)](https://yeti-animation.netlify.app/)
--   [WK Technology](https://wktechnology.netlify.app/)
+    
+-   [Portfolio (Angular)] (https://sergiohidekiportfolio.netlify.app/)
+-   [Med Alerta (Angular)] (https://med-alerta.netlify.app/)
+-   [Florata Lingerie (Angular)] (https://florata-lingerie.netlify.app/)
+-   [Interação animada Yeti (Angular)] (https://yeti-animation.netlify.app/)
+-   [WK Technology] (https://wktechnology.netlify.app/)
 </div>
 
 <div align="left">
